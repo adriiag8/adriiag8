@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I´m Adrian 👋
 
-<!--
-**adriiag8/adriiag8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some lines so you can know me better: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal development, studying on MEDAC online Tecnico Superior Desarrollo Aplicaciones Web.
+
+- 🌱 I’m currently learning Git, PHP, JS and looking forward to learn React & Node.JS.
+
+- 🧐 I’m looking to collaborate on some projects so I can learn more and get better to what I already study.
+  
+- 📫 You can always reach me at adriiag8@gmail.com
+
+- ⚡ Fun fact: I spent my last 7 years living, working & learning in Florida, EEUU. 
+
