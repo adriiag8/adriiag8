@@ -9,7 +9,7 @@ Here are some lines so you can know me better:
 
 - 🧐 I’m looking to collaborate on some projects so I can learn more and get better to what I already study.
   
-- 📫 You can always reach me at adriiag8@gmail.com
+- 📫 You can always reach me at adrianaguilarvillegas@gmail.com
 
 - ⚡ Fun fact: I spent my last 7 years living, working & learning in Florida, EEUU. 
 
